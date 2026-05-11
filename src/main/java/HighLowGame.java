@@ -8,7 +8,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class ProblemSet {
+public class HighLowGame {
 	public static void main(String[] args) {
 
 		//introduction code
@@ -29,7 +29,7 @@ public class ProblemSet {
 			System.out.print("Input a number of rounds to play: ");
 			rounds = input.nextInt();
 		}
-		while
+		// while
 
 		//using a for loop to keep rounds going
 		for (int i = 1; i <= rounds; i++) {

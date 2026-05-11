@@ -1,0 +1,9 @@
+K(30%): 95
+I(30%): 94%
+C(10%): 100
+A(30%): 94%
+94.9% of 90 - 85.41%
+
+Rounds check should be <= not <
+Need to check that is an int as well.
+Otherwise good work. I would suggest trying to use functions in the future to better split up your code and simplify it.
